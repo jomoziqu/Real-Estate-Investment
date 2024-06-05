@@ -9,7 +9,7 @@ The dataset used for this project consists of 1048 rows of data, including featu
 - Sale prices (target variable)
 
 ## Model:
-The Algorithms used for this project are Linear Regression and Random Forest) trained using the scikit learn library.
+The Algorithms used for this project are [Linear Regression and Random Forest] trained using the scikit learn library.
 
 ## Evaluation Metrics:
 The model will be evaluated using the following metric:
